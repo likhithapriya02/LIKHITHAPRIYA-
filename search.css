@@ -1,0 +1,34 @@
+*{
+    box-sizing:content-box;
+}
+
+body{
+    background-image: url('Screenshot (15).png');
+    background-repeat: no-repeat;
+    background-position: 20px;
+    background-size: 190%;
+    margin:1px;
+    padding:10px;
+  }
+
+  .b1{
+    margin: 20px;
+    padding: 4px;
+    margin: 10px;
+    display:inline-block;
+    box-shadow: 3px 1px;
+    width: 25%;
+  }
+
+  .b2{
+    margin: 20px;
+    padding: 4px;
+    margin: 10px;
+    display:inline-block;
+    box-shadow: 3px 1px;
+    width: 25%;
+ }
+
+ .color{
+   color: antiquewhite;
+ }

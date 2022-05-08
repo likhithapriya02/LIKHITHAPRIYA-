@@ -1,0 +1,17 @@
+
+
+body{
+    background-image: url('Screenshot (13).png');
+    background-repeat: no-repeat;
+    background-position: 50px;
+    background-size: 180%;
+    margin:1px;
+    padding:50px;
+  }
+.color{
+    padding: 10px;
+    color: lightgreen;
+    margin:10px;
+    padding: 10px;
+    margin:50px;
+}

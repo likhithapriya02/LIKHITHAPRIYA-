@@ -1,0 +1,13 @@
+*{
+    box-sizing:content-box;
+}
+
+body{
+    background-image: url('Screenshot (11).png');
+    background-repeat: no-repeat;
+    background-position: 20px;
+    background-size: 130%;
+    margin:1px;
+    padding:10px;
+  }
+  
